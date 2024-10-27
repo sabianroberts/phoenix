@@ -6,33 +6,38 @@
     ALL HTML FILES WILL USE THESE STYLES DEFINED HERE UNLESS STATED OTHERWISE IN THE HTML FILE ITSELF.
 */
 body {
-    font-family: Bahnschrift;
-    background-color: #757575;
+    font-family: "Lucida Grande";
+    background-color: #acacac;
     text-align: center;
     font-size: 130%
 }
 
 h1 {
-    font-family:Bahnschrift;
-    color: white;
+    font-family: "Lucida Grande";
+    color: #525252;
 }
 
 h2 {
-    font-family:Bahnschrift;
-    color: white;
+    font-family: "Lucida Grande";
+    color: #525252;
 }
 
 h3 {
-    font-family:Bahnschrift;
-    color: white;
+    font-family: "Lucida Grande";
+    color: #525252;
 }
 
 p {
-    font-family:Bahnschrift;
-    color: white;
+    font-family: "Lucida Grande";
+    color: #525252;
 }
 
 a {
-    font-family:Bahnschrift;
-    color: white;
+    font-family: "Lucida Grande";
+    color: #525252;
+}
+
+@font-face {
+    font-family: "Lucida Grande";
+    src: url("lucida.woff2") format('woff');
 }
